@@ -1,2 +1,2 @@
 # MentalHealthPrediction
-# A website that will help students to assess the mental health of students, build methods to find out and provide solutions for the improvement 
+# A website that will help student assess their mental health and find out and provide solutions for the improvement 
